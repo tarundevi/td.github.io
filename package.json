@@ -1,7 +1,7 @@
 {
+  "homepage": "tarundevi.github.io",
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://tarundevi.github.io/tarundevi.github.io",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
