@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": ".tarundevi.github.io/static/css/main.7c521d90.css",
-    "main.js": ".tarundevi.github.io/static/js/main.eb0aa1b8.js",
-    "static/js/488.9561f9b8.chunk.js": ".tarundevi.github.io/static/js/488.9561f9b8.chunk.js",
-    "static/media/tarun.jpeg": ".tarundevi.github.io/static/media/tarun.45416318f3de9985b718.jpeg",
-    "index.html": ".tarundevi.github.io/index.html",
-    "main.7c521d90.css.map": ".tarundevi.github.io/static/css/main.7c521d90.css.map",
-    "main.eb0aa1b8.js.map": ".tarundevi.github.io/static/js/main.eb0aa1b8.js.map",
-    "488.9561f9b8.chunk.js.map": ".tarundevi.github.io/static/js/488.9561f9b8.chunk.js.map"
+    "main.css": "/tarundevi.github.io/tarundevi.github.io/static/css/main.7c521d90.css",
+    "main.js": "/tarundevi.github.io/tarundevi.github.io/static/js/main.d8c8dbe8.js",
+    "static/js/488.9561f9b8.chunk.js": "/tarundevi.github.io/tarundevi.github.io/static/js/488.9561f9b8.chunk.js",
+    "static/media/tarun.jpeg": "/tarundevi.github.io/tarundevi.github.io/static/media/tarun.45416318f3de9985b718.jpeg",
+    "index.html": "/tarundevi.github.io/tarundevi.github.io/index.html",
+    "main.7c521d90.css.map": "/tarundevi.github.io/tarundevi.github.io/static/css/main.7c521d90.css.map",
+    "main.d8c8dbe8.js.map": "/tarundevi.github.io/tarundevi.github.io/static/js/main.d8c8dbe8.js.map",
+    "488.9561f9b8.chunk.js.map": "/tarundevi.github.io/tarundevi.github.io/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c521d90.css",
-    "static/js/main.eb0aa1b8.js"
+    "static/js/main.d8c8dbe8.js"
   ]
 }
